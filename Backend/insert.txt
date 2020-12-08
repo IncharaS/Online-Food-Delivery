@@ -1,6 +1,6 @@
 * Customer table
 
-Insert into customer values(‘John’,’smith’,100,’john@gmail.com’,’xxy’,’Bangalore’,’mg road’,560041,’M’,9933300924,’egg’
+Insert into customer values(‘Johnny’,’smith’,100,’john@gmail.com’,’xxy’,’Bangalore’,’mg road’,560041,’M’,9933300924,’egg’
 Insert into  customer values(‘Ravi’,’Sharma’,101,’raviS@gmail.com’,’abc’,’Bangalore’,’jayanagar’,560041,’M’,’9242889791,’onion,garlic’)
 Insert into customer values(‘Preethi’,’Prasad’,102,’preethi@yahoo.com’,’xyz’,’Bangalore’,’banashankari’,560070,’F’,9844037640,NULL)
 Insert into customer values(‘kumar’,’narayan’,103,’kumar@gmail.com’,’aab’,’Bangalore’,’vv puram’,560004,’M’,9511747841,’nuts’)
