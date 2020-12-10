@@ -1,6 +1,6 @@
 # Online Food Delivery(5TH SEM DBMS MINI PROJECT)  [![](https://img.shields.io/badge/Rutuja-Rajesh-brightgreen.svg?colorB=ff0000)](https://www.linkedin.com/in/rutuja-rajesh-20909610b/)
 
-It is a DBMS Mini project under 2015 VTU CBCS scheme.
+It is a DBMS Mini project under 2015 VTU CBCS scheme. jikk
 
 # Instructions FOR U
 
