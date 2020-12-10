@@ -6,7 +6,7 @@ It is a DBMS Mini project under 2015 VTU CBCS scheme. jikk
 
 # BACK END
 
-Download ORACLE 11G and above version.After installing it.
+Download ORACLE 11G and above version.After installing it. jijhgg
 
 * ADD [CREATE STMT](https://github.com/rutujar/Online-food-delivery/blob/master/Backend/create%20table.txt)
 
