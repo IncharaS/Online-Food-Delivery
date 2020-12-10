@@ -2,7 +2,7 @@
 
 It is a DBMS Mini project under 2015 VTU CBCS scheme.
 
-# Instructions
+# Instructions FOR U
 
 # BACK END
 
